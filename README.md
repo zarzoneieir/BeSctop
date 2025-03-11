@@ -1,2 +1,2 @@
 # BeSctop
-BeSctop is the best Discord app
+BeSctop is the best Discord app 
